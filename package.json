@@ -1,0 +1,19 @@
+{
+  "name": "service-manager-hdi-reset",
+  "version": "1.0.0",
+  "description": "Utility to delete the service key of a subscription and to create a new one (rotate)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreehari-pillai-atom/cf-service-manager-binding-rotate.git"
+  },
+  "author": "Sreehari Pillai",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sreehari-pillai-atom/cf-service-manager-binding-rotate/issues"
+  },
+  "homepage": "https://github.com/sreehari-pillai-atom/cf-service-manager-binding-rotate#readme"
+}
